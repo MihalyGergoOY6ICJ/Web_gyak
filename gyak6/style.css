@@ -1,0 +1,29 @@
+.task{
+    font-weight: bold;
+}
+
+.done{
+    text-decoration: line-through;
+    font-style: italic;
+}
+
+.btn {
+    display: inline-block;
+    padding: 8px 16px;
+    margin: 5px;
+    font-size: 16px;
+    text-align: center;
+    border: none;
+    cursor: pointer;
+    border-radius: 4px;
+}
+
+.btn-secondary {
+    background-color: #6c757d;
+    color: white;
+}
+
+.input{
+    height: 30px;
+    font-style: oblique;
+}
